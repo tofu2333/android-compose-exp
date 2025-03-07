@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Android Compose Exp"
 include(":app")
 include(":greetingcard")
+include(":happybirthday")
