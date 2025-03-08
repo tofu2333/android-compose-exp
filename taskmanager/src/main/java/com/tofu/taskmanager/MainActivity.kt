@@ -19,6 +19,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontStyle
+import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -57,7 +58,8 @@ fun App(modifier: Modifier = Modifier) {
 
             Text(
                 modifier = Modifier.padding(top = 24.dp, bottom = 8.dp),
-                text = stringResource(R.string.completed_text)
+                text = stringResource(R.string.completed_text),
+                fontWeight = FontWeight.Bold
             )
 
             Text(
