@@ -23,3 +23,5 @@ rootProject.name = "Android Compose Exp"
 include(":app")
 include(":greetingcard")
 include(":happybirthday")
+include(":article")
+include(":taskmanager")
