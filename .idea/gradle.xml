@@ -11,8 +11,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/article" />
             <option value="$PROJECT_DIR$/greetingcard" />
             <option value="$PROJECT_DIR$/happybirthday" />
+            <option value="$PROJECT_DIR$/quadrant" />
+            <option value="$PROJECT_DIR$/taskmanager" />
           </set>
         </option>
       </GradleProjectSettings>
